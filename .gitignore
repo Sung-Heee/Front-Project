@@ -1,6 +1,5 @@
 *.map.DS_Store
 node_modules/
-*.mp4
 *.map
-*.mp3
+
 

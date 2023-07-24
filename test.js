@@ -1,5 +1,4 @@
 const loremIpsum = document.getElementById("lorem-ipsum");
-
 const modal = document.getElementById("modal");
 
 function modalOn() {
